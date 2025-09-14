@@ -1,4 +1,4 @@
-<img width="302" height="260" alt="image" src="https://github.com/user-attachments/assets/783b59ec-a1ad-4b02-bb64-9e5dc348f8a1" /># Terraform Infrastructure 
+#Terraform Infrastructure 
 
 A simple Terraform project to create AWS VPC and EC2 instance with proper networking setup.
 
